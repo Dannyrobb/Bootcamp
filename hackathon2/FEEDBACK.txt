@@ -1,0 +1,6 @@
+Meir I really like how the website is built, the colors ,style and content!
+Please let me know if I am missing something but I do not see any JAVASCRIPT on the project.
+Purely HTML and CSS?
+If this is the case the project definetly needs JS,database connection,fetch api..
+As I said at the beggining still looks really good style wise.
+Good luck and good job!
